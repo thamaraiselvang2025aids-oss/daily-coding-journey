@@ -16,3 +16,5 @@ MY DAILY CODING AND DSA PRACTICE JOURNEY
   4. Average
   5. Linear Search
   6. Count Occurrences
+- **Day 5: 25.08.2026**
+  1. Find Duplicate Element
