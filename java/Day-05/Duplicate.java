@@ -15,10 +15,11 @@ public class Duplicate {
             for(int j=i+1;j<n;j++){
                 if (arr[i]==arr[j]){
                     count++;
-                    System.out.print("duplicate element:"+arr[i]);
+                    System.out.println("duplicate element:"+arr[i]);
                 }
             }
         }
+        System.out.print("Count : "+count);
         
     }
 }

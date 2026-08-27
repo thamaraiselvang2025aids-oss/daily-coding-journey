@@ -18,3 +18,5 @@ MY DAILY CODING AND DSA PRACTICE JOURNEY
   6. Count Occurrences
 - **Day 5: 25.08.2026**
   1. Find Duplicate Element
+- **Day 6: 26.08.2026**
+  1. Duplicate Ends with Zero
