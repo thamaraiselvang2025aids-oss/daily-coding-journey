@@ -20,3 +20,7 @@ MY DAILY CODING AND DSA PRACTICE JOURNEY
   1. Find Duplicate Element
 - **Day 6: 26.08.2026**
   1. Duplicate Ends with Zero
+- **Day 7: 27.08.2026**
+  1. Remove Duplicate
+- **Day 8: 28.08.2026**
+  1. 2D Matrix Array
