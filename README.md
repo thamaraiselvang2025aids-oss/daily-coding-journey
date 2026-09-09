@@ -28,3 +28,5 @@ MY DAILY CODING AND DSA PRACTICE JOURNEY
   1. cpp day 1
 - **Day 10: 30.08.2026**
   1. cpp day 2
+- **Day 11: 31.08.2026**
+  1. cpp day 3
