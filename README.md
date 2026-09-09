@@ -24,3 +24,7 @@ MY DAILY CODING AND DSA PRACTICE JOURNEY
   1. Remove Duplicate
 - **Day 8: 28.08.2026**
   1. 2D Matrix Array
+- **Day 9: 29.08.2026**
+  1. cpp day 1
+- **Day 10: 30.08.2026**
+  1. cpp day 2
