@@ -10,12 +10,15 @@ step 2: find no of columns / items in each row for inner loop
 */
 #include <iostream>
 using namespace std;
-for(int i = 1; i <= n; i++)
-{
-    for(int j = 1; j <= i; j++)
+
+int main(){
+    for(int i = 1; i <= 5; i++)
     {
-        cout << "* ";
-    }
+        for(int j = 1; j <= i; j++)   // no of stars = no of rows 
+        {
+            cout << "* ";
+        }
 
     cout << endl;
+    }
 }
