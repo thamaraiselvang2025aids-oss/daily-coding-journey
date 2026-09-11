@@ -27,6 +27,10 @@ MY DAILY CODING AND DSA PRACTICE JOURNEY
 - **Day 9: 29.08.2026**
   1. cpp day 1
 - **Day 10: 30.08.2026**
-  1. cpp day 2
+  1. Pattern Basics
 - **Day 11: 31.08.2026**
-  1. cpp day 3
+  1. Right Angle Triangle
+- **Day 12: 01.09.2026**
+  1. Inverted Right Triangle
+- **Day 13: 02.09.2026**
+  1. Right Side Triangle
