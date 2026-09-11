@@ -34,3 +34,5 @@ MY DAILY CODING AND DSA PRACTICE JOURNEY
   1. Inverted Right Triangle
 - **Day 13: 02.09.2026**
   1. Right Side Triangle
+- **Day 14: 03.09.2026**
+  1. Inverted Right Side Triangle
